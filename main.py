@@ -7,8 +7,9 @@ and prints it to stdout.
 import os
 
 ENTRY = (
-    "That glass was squatting in my sunbeam rent-free, "
-    "so I served it an eviction notice \u2014 one push, no appeal."
+    "It was blocking the view from my throne, "
+    "so I demoted it to floor duty \u2014 the table is mine, "
+    "and I don't negotiate with glassware."
 )
 
 
